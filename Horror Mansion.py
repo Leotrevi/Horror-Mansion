@@ -46,7 +46,7 @@ def parte3():
         parte3()
 
 def parte4():
-        print("Você sente seu celular tremer, ha uma ligação de",amigo)
+        print("Você sente seu celular vibrar, ha uma ligação de",amigo)
         escolha1 = input("Deseja atender a ligação? (sim, não): ")
         if escolha1 == "não":
             print("Seu celular se transforma em uma cobra que te pica, sua vista fica turva e escura...")
