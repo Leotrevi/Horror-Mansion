@@ -56,7 +56,7 @@ def parte4():
             print(player,":Sim estou ouvindo o que foi",amigo,"?")
             print(amigo,":Cara eu falei pra não entrar nessa mansão, agora você só poderá sair dai se resolver todos os enigmas e..")
             print("pshsshhhhhhhhhhhhh, a ligação cai")
-            print("Obrigado por jogar a demonstração de Horror Castle")
+            print("Obrigado por jogar a demonstração de Horror Mansion")
 
 #-----Main-----#
 
